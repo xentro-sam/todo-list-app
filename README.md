@@ -1,3 +1,21 @@
+# Todo List
+A simple todo list created with the help of React. Get your work done folks!! The project is deployed [here](https://xentro-sam.github.io/todo-list-app).
+
+## Running the project locally
+
+Install [nodeJS](https://nodejs.org/en/)
+
+Then do :
+
+```
+git clone https://github.com/xentro-sam/todo-list-app.git
+cd todo-list-app
+npm install
+npm start
+```
+
+Then go to [localhost:3000](http://localhost:3000/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
